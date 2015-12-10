@@ -1,0 +1,7 @@
+{
+  "lx_script": {
+    "event_name": "UPS_Sales_Warehouse_Capacity_Barrel_update",
+    "code": "foo.js",
+    "run_level": "notpure"
+  }
+}
