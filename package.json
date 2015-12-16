@@ -1,7 +1,7 @@
 {
   "lanetix": {
     "script": {
-      "event_name": "UPS_Sales_Warehouse_Capacity_Barrel_update",
+      "event_name": "Warehouse",
       "code": "foo.js",
       "run_level": "notpure"
     }
